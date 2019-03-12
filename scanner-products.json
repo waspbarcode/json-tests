@@ -1,0 +1,59 @@
+[
+  {
+    "partnum": "633809002267",
+    "value": "DR3 2D Android Mobile Computer",
+    "tags":"1D/2D Android Wireless Wifi",
+    "related-1": [
+      "Wasp DR3 single slot USB cradle",
+      "633809002168"
+    ],
+    "related-2": [
+      "Wasp DR3 standard battery 3.7V 3200mAh",
+      "633809002175"
+    ],
+    "tokens": [
+      "DR3",
+      "2D",
+      "Android",
+      "Mobile",
+      "Computer"
+    ]
+  },
+  {
+    "partnum": "633809002885",
+    "value": "WWS650 Wireless 2D Barcode Scanner",
+    "tags":"1D/2D iOS Android Wireless Wifi",
+    "related-1": [
+      "Inventory Control RF Enterprise",
+      "633808342074"
+    ],
+    "tokens": [
+      "WWS650",
+      "Wireless",
+      "2D",
+      "Barcode",
+      "Scanner"
+    ]
+  },
+  {
+    "partnum": "633809004018",
+    "value": "WRS100SBR 1D Ring Barcode Scanner",
+    "tags":"1D iOS Android Wireless",
+    "related-1": [
+      "MobileAsset Standard (1-user)",
+      "633808927561"
+    ],
+    "related-2": [
+      "Wasp WPL4ML mobile barcode printer, Wi-Fi",
+      "633809003424"
+    ],
+    "tokens": [
+      "WWS650",
+      "Wireless",
+      "1D",
+      "Ring",
+      "Barcode",
+      "Scanner"
+    ]
+  }
+]
